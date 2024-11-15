@@ -1,0 +1,212 @@
+[
+    {
+        "main_title": "Верхняя одежда",
+        "main_index": 1,
+        "sub_data": [
+            {
+                "sub_index": 1,
+                "sub_title": "Ветровки",
+                "sub_link": "/catalog/vetrovka/"
+            },
+            {
+                "sub_index": 2,
+                "sub_title": "Жилетки",
+                "sub_link": "/catalog/zhiletka/"
+            },
+            {
+                "sub_index": 3,
+                "sub_title": "Куртки",
+                "sub_link": "/catalog/kurtka_1/"
+            },
+            {
+                "sub_index": 4,
+                "sub_title": "Пальто",
+                "sub_link": "/catalog/palto/"
+            }
+        ]
+    },
+    {
+        "main_title": "Тoлстoвки",
+        "main_index": 2,
+        "sub_data": [
+            {
+                "sub_index": 1,
+                "sub_title": "Толстовки",
+                "sub_link": "/catalog/tolstovka/"
+            },
+            {
+                "sub_index": 2,
+                "sub_title": "Олимпийки",
+                "sub_link": "/catalog/olimpiyka/"
+            }
+        ]
+    },
+    {
+        "main_title": "Джемперы и кардиганы",
+        "main_index": 3,
+        "sub_data": [
+            {
+                "sub_index": 1,
+                "sub_title": "Джемпер",
+                "sub_link": "/catalog/dzhemper/"
+            },
+            {
+                "sub_index": 2,
+                "sub_title": "Кардиган",
+                "sub_link": "/catalog/kardigan/"
+            },
+            {
+                "sub_index": 3,
+                "sub_title": "Свитер",
+                "sub_link": "/catalog/sviter/"
+            }
+        ]
+    },
+    {
+        "main_title": "Футболки и поло",
+        "main_index": 4,
+        "sub_data": [
+            {
+                "sub_index": 1,
+                "sub_title": "Поло",
+                "sub_link": "/catalog/polo/"
+            },
+            {
+                "sub_index": 2,
+                "sub_title": "Футболки",
+                "sub_link": "/catalog/futbolka_1/"
+            }
+        ]
+    },
+    {
+        "main_title": "Рубашки",
+        "main_index": 5,
+        "sub_data": [
+            {
+                "sub_index": 1,
+                "sub_title": "Рубашки",
+                "sub_link": "/catalog/rubashka_1/"
+            }
+        ]
+    },
+    {
+        "main_title": "Брюки",
+        "main_index": 6,
+        "sub_data": [
+            {
+                "sub_index": 1,
+                "sub_title": "Брюки",
+                "sub_link": "/catalog/bryuki/"
+            },
+            {
+                "sub_index": 2,
+                "sub_title": "Джоггеры",
+                "sub_link": "/catalog/dzhoggery/"
+            },
+            {
+                "sub_index": 3,
+                "sub_title": "Трико",
+                "sub_link": "/catalog/triko/"
+            },
+            {
+                "sub_index": 4,
+                "sub_title": "Чиносы",
+                "sub_link": "/catalog/chinosy/"
+            }
+        ]
+    },
+    {
+        "main_title": "Джинсы",
+        "main_index": 7,
+        "sub_data": [
+            {
+                "sub_index": 1,
+                "sub_title": "Джинсы",
+                "sub_link": "/catalog/dzhinsy/"
+            }
+        ]
+    },
+    {
+        "main_title": "Пиджаки",
+        "main_index": 8,
+        "sub_data": [
+            {
+                "sub_index": 1,
+                "sub_title": "Пиджаки",
+                "sub_link": "/catalog/pidzhak_1/"
+            }
+        ]
+    },
+    {
+        "main_title": "Шорты",
+        "main_index": 9,
+        "sub_data": [
+            {
+                "sub_index": 1,
+                "sub_title": "Шорты",
+                "sub_link": "/catalog/shorty/"
+            },
+            {
+                "sub_index": 2,
+                "sub_title": "Шорты плавательные",
+                "sub_link": "/catalog/shorty-plavatelnye/"
+            }
+        ]
+    },
+    {
+        "main_title": "Аксессуары",
+        "main_index": 10,
+        "sub_data": [
+            {
+                "sub_index": 1,
+                "sub_title": "Нижнее белье",
+                "sub_link": "/catalog/kategoriya-nizhnee-bele/"
+            },
+            {
+                "sub_index": 2,
+                "sub_title": "Очки",
+                "sub_link": "/catalog/ochki_1/"
+            },
+            {
+                "sub_index": 3,
+                "sub_title": "Майка",
+                "sub_link": "/catalog/mayka_1/"
+            },
+            {
+                "sub_index": 4,
+                "sub_title": "Носки",
+                "sub_link": "/catalog/noski_1/"
+            },
+            {
+                "sub_index": 5,
+                "sub_title": "Шапки",
+                "sub_link": "/catalog/shapki-kepki-panamy/"
+            },
+            {
+                "sub_index": 6,
+                "sub_title": "Кепки",
+                "sub_link": "/catalog/kepki/"
+            },
+            {
+                "sub_index": 7,
+                "sub_title": "Ремень",
+                "sub_link": "/catalog/remen_1/"
+            },
+            {
+                "sub_index": 8,
+                "sub_title": "Шарфы и перчатки",
+                "sub_link": "/catalog/sharfy-i-perchatki/"
+            },
+            {
+                "sub_index": 9,
+                "sub_title": "Ролики для одежды",
+                "sub_link": "/catalog/roliki-dlya-odezhdy/"
+            },
+            {
+                "sub_index": 10,
+                "sub_title": "Сумка",
+                "sub_link": "/catalog/sumka_1/"
+            }
+        ]
+    }
+]
